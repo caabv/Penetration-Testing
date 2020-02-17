@@ -1,5 +1,7 @@
 # Windows Commands and WMI
 
+This document contains different commands for windows (Thanks to Andrea Fortuna)
+
 ## Command line
 
 ### Windows Registry
